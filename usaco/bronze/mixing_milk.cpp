@@ -21,10 +21,8 @@ int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
-    /*
-    freopen("problem.in", "r", stdin);
-    freopen("problem.out", "w", stdout);
-    */
+    freopen("mixmilk.in", "r", stdin);
+    freopen("mixmilk.out", "w", stdout);
     vector<int> c(3);
     vector<int> m(3);
     for (int i = 0; i < 3; i++)
