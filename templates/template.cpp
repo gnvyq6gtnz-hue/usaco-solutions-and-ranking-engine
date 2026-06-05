@@ -4,6 +4,7 @@ Topic:
 Key idea:
 Time complexity:
 Space complexity:
+*/
 
 #include <iostream>  // For std::cin, std::cout, std::endl
 #include <vector>    // For std::vector
